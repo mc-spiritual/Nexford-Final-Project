@@ -76,3 +76,6 @@ Start Command: gunicorn app:app
 Environment Variable: MONGODB_URI=your_connection_string
 
 Wait for the build and deploy. Done!
+
+## Limitation of the project
+This project uses Mongodb Local server because of the cost of using the Mongo Atlas webserver which happens to be a paid service. Hence the deployment of the web in Render would not be efficient.
