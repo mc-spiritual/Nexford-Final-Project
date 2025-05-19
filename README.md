@@ -19,7 +19,7 @@ This web-based survey tool allows users to:
 ## 🛠 Tech Stack
 
 - **Flask** — Python Web Framework
-- **MongoDB Atlas** — Cloud-based NoSQL database
+- **MongoDB Compass** — Local database storage
 - **Pandas** — For data handling and export
 - **Matplotlib / Seaborn** — For visualization
 - **Jupyter Notebook** — For data analysis and chart generation
